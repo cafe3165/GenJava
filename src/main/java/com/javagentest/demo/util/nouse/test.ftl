@@ -6,8 +6,6 @@ private Integer ${Id};
 private String ${userName};
 private String ${password};
 
-
-
 public Integer get${Id}(){
 
 return ${Id};

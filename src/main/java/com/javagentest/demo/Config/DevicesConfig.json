@@ -1,0 +1,9 @@
+[{"classPath": "com.javagentest.demo.Proxy.device", "className": "Gree", "attribute": "Temperature", "IncreaseFunc": "warm", "ReduceFunc": "cool", "Type": "AirCondition"},
+  {"classPath": "com.javagentest.demo.Proxy.device", "className": "Panasonic", "attribute": "Temperature", "IncreaseFunc": "down", "ReduceFunc": "up", "Type": "AirCondition"},
+  {"classPath": "com.javagentest.demo.Proxy.device", "className": "Led", "attribute": "Brightness", "IncreaseFunc": "lightUp", "ReduceFunc": "draken", "Type": "SmartLed"},
+  {"classPath": "com.javagentest.demo.Proxy.device", "className": "Meacon", "attribute": "Humidity", "IncreaseFunc": "", "ReduceFunc": "", "Type": "FlowerMonitor"},
+  {"classPath": "com.javagentest.demo.Proxy.device", "className": "Mi", "attribute": "PM2_5", "IncreaseFunc": "", "ReduceFunc": "purify", "Type": "AirCleaner"},
+  {"classPath": "com.javagentest.demo.Proxy.device", "className": "Midea", "attribute": "Brightness", "IncreaseFunc": "RaiseBrightness", "ReduceFunc": "", "Type": "Light"},
+  {"classPath": "com.javagentest.demo.Proxy.device", "className": "Opple", "attribute": "Brightness", "IncreaseFunc": "RaiseBrightness", "ReduceFunc": "", "Type": "Light"},
+  {"classPath": "com.javagentest.demo.Proxy.device", "className": "Philips", "attribute": "PM2_5", "IncreaseFunc": "", "ReduceFunc": "", "Type": "AirMonitor"},
+  {"classPath": "com.javagentest.demo.Proxy.device", "className": "Wilo", "attribute": "Humidity", "IncreaseFunc": "water", "ReduceFunc": "", "Type": "SmartWaterPump"}]

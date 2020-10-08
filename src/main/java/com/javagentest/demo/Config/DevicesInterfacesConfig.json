@@ -1,0 +1,7 @@
+[{"classPath": "com.javagentest.demo.Proxy.runtime", "className": "AirCleaner", "attribute": "PM2_5", "IncreaseFunc": "", "ReduceFunc": "purify"},
+  {"classPath": "com.javagentest.demo.Proxy.runtime", "className": "AirCondition", "attribute": "Temperature", "IncreaseFunc": "warm", "ReduceFunc": "cool"},
+  {"classPath": "com.javagentest.demo.Proxy.runtime", "className": "AirMonitor", "attribute": "PM2_5", "IncreaseFunc": "", "ReduceFunc": ""},
+  {"classPath": "com.javagentest.demo.Proxy.runtime", "className": "FlowerMonitor", "attribute": "Humidity", "IncreaseFunc": "", "ReduceFunc": ""},
+  {"classPath": "com.javagentest.demo.Proxy.runtime", "className": "Light", "attribute": "Brightness", "IncreaseFunc": "illumine", "ReduceFunc": ""},
+  {"classPath": "com.javagentest.demo.Proxy.runtime", "className": "SmartLed", "attribute": "Brightness", "IncreaseFunc": "illumine", "ReduceFunc": ""},
+  {"classPath": "com.javagentest.demo.Proxy.runtime", "className": "SmartWaterPump", "attribute": "Humidity", "IncreaseFunc": "water", "ReduceFunc": ""}]
